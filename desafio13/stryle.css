@@ -35,10 +35,34 @@ section#telefone {
 }
 
 iframe#tela {
+
     position: relative;
     top: 80px;
     left: 22px;
     width: 269px;
     height: 471px;
-    
+
+}
+
+section#redes-sodiais {
+    text-align: left;
+}
+
+section#redes-sodiais img {
+    box-sizing: border-box;
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+
+
+}
+
+section#redes-sodiais img:hover{
+border: 3px  solid rgb(1, 60, 255);
+transform: translate(-3px, -3px);
+
+
+
+
+
 }
